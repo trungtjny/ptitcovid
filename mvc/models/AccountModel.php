@@ -1,5 +1,5 @@
 <?php
-/* 
+
 
 
 class AccountModel extends DB {
@@ -51,4 +51,3 @@ class AccountModel extends DB {
             }
     }
 }
-*/
